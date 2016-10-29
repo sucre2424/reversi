@@ -10,6 +10,9 @@
 *.ear
 
 api-docs-modified/
+api-docs-modified1/
+api-docs-modified2/
+api-docs-modified3/
 api-docs-modified.tar
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
